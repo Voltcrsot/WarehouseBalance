@@ -1,0 +1,6 @@
+@WarehouseBalance_HostAddress = http://localhost:5085
+
+GET {{WarehouseBalance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
