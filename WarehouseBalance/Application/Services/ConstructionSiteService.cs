@@ -49,6 +49,6 @@ namespace Application.Services
             _repository.Add(constructionSite);
         }
 
-        // Дополнительные методы для обновления и удаления строительных объектов
+     
     }
 }

@@ -2,8 +2,8 @@
 {
     public class BalanceRequest
     {
-        public ConstructionSite ConstructionSite { get; set; }
-        public List<RequestedMaterial> Materials { get; set; }
+        public ConstructionSite? ConstructionSite { get; set; }
+        public List<RequestedMaterial>? Materials { get; set; }
     }
 
     public class RequestedMaterial
